@@ -8,16 +8,6 @@
 
 <br />
 
-<a href="mailto:tain24190@gmail.com"><img src="https://img.shields.io/badge/Email-tain24190%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/ntwzaii05"><img src="https://img.shields.io/badge/Facebook-ntwzaii05-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://github.com/tainguyenwork9"><img src="https://img.shields.io/badge/GitHub-tainguyenwork9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=tainguyenwork9&label=Profile%20views&color=6C5CE7&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internship-00CEC9?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
-
-</div>
 
 ---
 
