@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tainguyenwork9/tainguyenwork9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00CEC9&height=220&section=header&text=Nguyen%20Van%20Tai&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Third-year%20IT%20Student%20%7C%20Laravel%20%C2%B7%20VueJS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Nguyen Van Tai" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/tainguyenwork9">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=8E7CFF&center=true&vCenter=true&width=620&lines=Third-year+Information+Technology+student;Building+my+capstone+project+with+Laravel;PHP+%C2%B7+Laravel+%C2%B7+VueJS+%C2%B7+MySQL;Always+learning%2C+always+shipping." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<a href="mailto:tain24190@gmail.com"><img src="https://img.shields.io/badge/Email-tain24190%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/ntwzaii05"><img src="https://img.shields.io/badge/Facebook-ntwzaii05-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/tainguyenwork9"><img src="https://img.shields.io/badge/GitHub-tainguyenwork9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=tainguyenwork9&label=Profile%20views&color=6C5CE7&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internship-00CEC9?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+
+</div>
+
+---
+
+## About Me
+
+```php
+<?php
+
+class NguyenVanTai
+{
+    public string $name     = 'Nguyen Van Tai';
+    public string $username = 'tainguyenwork9';
+    public string $role     = 'Third-year Information Technology Student';
+    public string $focus    = 'Capstone Project (Do an)';
+
+    public array $stack = ['PHP', 'Laravel', 'HTML', 'CSS', 'VueJS'];
+
+    public function currently(): array
+    {
+        return [
+            'Studying'  => 'Software Engineering & Web Development',
+            'Building'  => 'A full-stack web app with Laravel + VueJS',
+            'Learning'  => 'Clean Architecture, REST APIs, Testing',
+            'Goal'      => 'Become a professional Backend / Full-stack Developer',
+        ];
+    }
+}
+```
+
+- 🎓 Third-year IT student, currently working on my **capstone project**
+- 💻 Main stack: **PHP · Laravel · HTML · CSS · VueJS**
+- 🌱 Sharpening my skills in **REST APIs, database design, and component-based frontend**
+- 🤝 Open to **internship** and collaboration opportunities on web projects
+- 📬 Reach me at **tain24190@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+**Database & Tools**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+> **Capstone Project** — a full-stack web application built with Laravel and VueJS.
+> Focus areas: authentication & authorization, RESTful APIs, responsive UI, and clean database design.
+
+| Area | Details |
+| :--- | :--- |
+| **Backend** | Laravel (MVC, Eloquent ORM, middleware, validation, policies) |
+| **Frontend** | VueJS components, HTML/CSS, responsive layouts |
+| **Database** | MySQL — schema design, relationships, migrations |
+| **Practices** | Git workflow, code review, documentation |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tainguyenwork9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8E7CFF&icon_color=00CEC9&text_color=768390&bg_color=00000000" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyenwork9&layout=compact&langs_count=8&hide_border=true&title_color=8E7CFF&text_color=768390&bg_color=00000000" height="170" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tainguyenwork9&hide_border=true&stroke=8E7CFF&ring=6C5CE7&fire=FF6B6B&currStreakLabel=00CEC9&sideLabels=768390&dates=768390&background=00000000" width="70%" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tainguyenwork9&bg_color=00000000&color=8E7CFF&line=00CEC9&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tainguyenwork9&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tainguyenwork9/tainguyenwork9/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tainguyenwork9/tainguyenwork9/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tainguyenwork9/tainguyenwork9/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:tain24190@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tain24190@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.facebook.com/ntwzaii05">
+  <img src="https://img.shields.io/badge/Messenger-ntwzaii05-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger" />
+</a>
+
+<br /><br />
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CEC9,50:8E7CFF,100:6C5CE7&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
