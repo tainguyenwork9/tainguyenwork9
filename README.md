@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00CEC9&height=190&section=header&text=Nguyen%20Van%20Tai&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Full-stack%20Web%20Developer%20%7C%20Laravel%20%26%20Vue.js&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Nguyen Van Tai - Full-stack Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00CEC9&height=190&section=header&text=Nguyen%20Van%20Tai&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Full-stack%20Web%20Developer%20%7C%20Laravel%20%26%20Vue.js&descAlignY=58&descSize=17&animation=fadeIn&v=2" width="100%" alt="Nguyen Van Tai - Full-stack Web Developer" />
 
 ### Hi there, I'm Tai 👋
 
