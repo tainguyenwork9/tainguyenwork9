@@ -104,26 +104,31 @@ class NguyenVanTai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tainguyenwork9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8E7CFF&icon_color=00CEC9&text_color=768390&bg_color=00000000" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyenwork9&layout=compact&langs_count=8&hide_border=true&title_color=8E7CFF&text_color=768390&bg_color=00000000" height="170" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tainguyenwork9&theme=github_dark" width="95%" alt="Profile summary" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tainguyenwork9&theme=github_dark" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tainguyenwork9&theme=github_dark&utcOffset=7" height="180" alt="Productive time" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tainguyenwork9&hide_border=true&stroke=8E7CFF&ring=6C5CE7&fire=FF6B6B&currStreakLabel=00CEC9&sideLabels=768390&dates=768390&background=00000000" width="70%" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tainguyenwork9&theme=github_dark" height="180" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tainguyenwork9&theme=github_dark" height="180" alt="Repos per language" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tainguyenwork9&bg_color=00000000&color=8E7CFF&line=00CEC9&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com/?user=tainguyenwork9&hide_border=true&stroke=8E7CFF&ring=6C5CE7&fire=FF6B6B&currStreakLabel=00CEC9&sideLabels=768390&dates=768390&background=00000000" width="70%" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tainguyenwork9&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" alt="GitHub trophies" />
+<img src="https://ghchart.rshah.org/8E7CFF/tainguyenwork9" width="95%" alt="Contribution graph" />
 
 </div>
 
