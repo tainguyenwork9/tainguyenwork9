@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:8E7CFF,100:00CEC9&height=190&section=header&text=Nguyen%20Van%20Tai&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Full-stack%20Web%20Developer%20%7C%20Laravel%20%26%20Vue.js&descAlignY=58&descSize=17&animation=fadeIn&v=2" width="100%" alt="Nguyen Van Tai - Full-stack Web Developer" />
-
 ### Hi there, I'm Tai 👋
 
-**Information Technology Student at Duy Tan University**<br />
+**Third-year Information Technology Student**<br />
 **PHP / Laravel · Vue.js · MySQL**
 
 I build practical web applications and enjoy turning ideas into working products.
@@ -20,7 +18,7 @@ I build practical web applications and enjoy turning ideas into working products
 
 ### 👨‍💻 About me
 
-- 🎓 **Third-year Information Technology student** at **Duy Tan University**, Vietnam.
+- 🎓 **Third-year Information Technology student**, Vietnam.
 - 💼 Completed a **4-month Full-stack Developer internship at DZ Fullstack**.
 - 🧩 Focused on **backend development with PHP / Laravel**, while building user interfaces with **Vue.js**.
 - 🛠️ Experienced with student and personal web projects involving **REST APIs, authentication, role-based access, relational databases, and responsive UI**.
@@ -110,7 +108,5 @@ I'm interested in **backend / full-stack development**, learning from real proje
 **[Portfolio](https://ngvantai.id.vn) · [Email](mailto:tain24190@gmail.com) · [Facebook](https://www.facebook.com/ntwzaii05)**
 
 *“First, solve the problem. Then, write the code.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CEC9,50:8E7CFF,100:6C5CE7&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
