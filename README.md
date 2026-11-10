@@ -118,7 +118,7 @@ class NguyenVanTai
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=tainguyenwork9&hide_border=true&stroke=8E7CFF&ring=6C5CE7&fire=FF6B6B&currStreakLabel=00CEC9&sideLabels=768390&dates=768390&background=00000000" width="70%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=tainguyenwork9&hide_border=true&border_radius=8&background=0D1117&stroke=30363D&ring=6C5CE7&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00CEC9&sideNums=8E7CFF&sideLabels=CDD6F4&dates=768390" width="70%" alt="GitHub streak" />
 
 </div>
 
