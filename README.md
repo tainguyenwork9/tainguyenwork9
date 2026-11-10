@@ -124,15 +124,6 @@ class NguyenVanTai
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/8E7CFF/tainguyenwork9" width="95%" alt="Contribution graph" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
